@@ -1,0 +1,2 @@
+# Ultimate Boss Guide files: fnv64 size path (the DLL and version.txt have their own check)
+0530161d01495a69 300 pool.txt
